@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Hacking
+          Learn Ethical Hacking
         </a>
       </header>
     </div>
